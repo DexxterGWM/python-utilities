@@ -16,4 +16,5 @@
 ---
 1. **DIR Lister** : [File - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
 2. **USB Dropper** : [File - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
+3. **Wordlist Utility** : [File - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
 <br/>
