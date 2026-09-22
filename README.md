@@ -5,9 +5,8 @@
 2. **ARP Spoofer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
 3. **MAC Changer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
 4. **NET Sniffer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
-5. **NET Scanner** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
 
-6. **Network Scanner** : [Source - W.I.P, UPDATING](https://github.com/DexxterGWM/python-utilities) <br/>
+5. **Network Scanner** : [Source - W.I.P, UPDATING](https://github.com/DexxterGWM/python-utilities) <br/>
     - INFO: TBD.
 <br/>
 
