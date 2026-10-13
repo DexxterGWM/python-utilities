@@ -1,11 +1,11 @@
 ### <div align='center'> MAIN </div>
 
 ---
-1. **DNS Spoofer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
-2. **ARP Spoofer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
-3. **PDF/Image Trojan (windows)** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
-4. **Network Scanner** : [Source - W.I.P, UPDATING](https://github.com/DexxterGWM/python-utilities) <br/>
-<br/>
+1. **Network Scanner** (Windows\Linux\macOS) : [Source - W.I.P, UPDATING](https://github.com/DexxterGWM/python-utilities) <br/>
+2. **DNS Spoofer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
+3. **ARP Spoofer** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
+4. **PDF/Image Trojan (Windows/Android)** : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
+5. **Data Exfiltration** (Windows/Android) : [Source - W.I.P](https://github.com/DexxterGWM/python-utilities) <br/>
 
 ### <div align='center'> GENERAL </div>
 
